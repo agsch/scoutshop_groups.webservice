@@ -1,0 +1,6 @@
+[postgresql]
+user=credencial
+password=D83XkEjb
+host=192.168.98.1
+port=5432
+database=scoutsweb_prod
