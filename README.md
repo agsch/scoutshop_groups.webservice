@@ -1,4 +1,8 @@
-# scoutshop.webservice
+# scoutshop_groups.webservice
+
+<H3>Consulta</H3>
+
+https://mirlo.guiasyscouts.cl:8080/validador?group=<id_grupo>[&year=<año>]
 
 <H3>pre-requisites</H3>
 you must install:
